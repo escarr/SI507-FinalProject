@@ -1,0 +1,17 @@
+
+Recipe Selection Commands:
+
+search <search_term>
+    Description: search for recipes from the spoonacular API
+    Example: 'search burger'
+
+allrecipes <url>
+    Description: enter the url for a recipe from allrecipes.com 
+    Example: 'allrecipes https://www.allrecipes.com/recipe/228129/classic-savory-deviled-eggs/?internalSource=streams&referringId=110&referringContentType=Recipe%20Hub&clickId=st_trending_b'
+
+retrieve
+    Description: will return a list of recipes currently in the database for the user to choose from
+
+random
+    Description: have the program randomly select a recipe for you from the database
+

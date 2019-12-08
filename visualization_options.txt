@@ -1,0 +1,16 @@
+
+Recipe Visualization Commands:
+
+file 
+    Description: Create a nicely formatted text file of the recipe information
+
+web 
+    Description: Launch the recipe in a web broswer
+
+pie chart
+    Description: Create a pie chart of the recipe macros
+
+compare 
+    Description: compare the nutritional composition of two recipes
+    More info: once called, will print a list of recipe titles for the user to choose 
+    from to compare to the currectly selected recipe
