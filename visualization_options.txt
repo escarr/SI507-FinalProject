@@ -8,9 +8,9 @@ web
     Description: Launch the recipe in a web broswer
 
 pie chart
-    Description: Create a pie chart of the recipe macros
+    Description: Create a pie chart of the macrontrients breakdown for the recipe
 
 compare 
-    Description: compare the nutritional composition of two recipes
+    Description: compare the nutritional composition of two recipes including the macronutrients, calories and sodium/cholesterol
     More info: once called, will print a list of recipe titles for the user to choose 
     from to compare to the currectly selected recipe
